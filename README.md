@@ -1,7 +1,9 @@
 # home-credit-ftp-uoe
 
-Kaggle Home Credit Default Risk
+**Kaggle Home Credit Default Risk**
+
 Initial date: October, 8th 2022
+
 ---
 
 
